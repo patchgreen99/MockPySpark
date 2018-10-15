@@ -1,6 +1,6 @@
 # MockPySpark
 
-See PySpark Documentation for RDD methdod usage [https://spark.apache.org/docs/latest/api/python/index.html](https://spark.apache.org/docs/latest/api/python/index.html)
+See PySpark Documentation for RDD method usage [https://spark.apache.org/docs/latest/api/python/index.html](https://spark.apache.org/docs/latest/api/python/index.html)
 
 #### Debugging Your Pipeline
 
