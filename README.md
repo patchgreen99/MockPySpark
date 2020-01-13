@@ -1,5 +1,8 @@
 # MockPySpark
 
+- Useful for runnning tests on small datasets either locally or using  CI/CD software
+- Also useful when testing candidates in interviews on their ability to build distributed algorithms
+
 See PySpark Documentation for RDD method usage [https://spark.apache.org/docs/latest/api/python/index.html](https://spark.apache.org/docs/latest/api/python/index.html)
 
 #### Debugging Your Pipeline
